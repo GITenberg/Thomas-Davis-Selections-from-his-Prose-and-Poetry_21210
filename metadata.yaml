@@ -1,0 +1,48 @@
+_repo: Thomas-Davis-Selections-from-his-Prose-and-Poetry_21210
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Rolleston, T. W. (Thomas William)
+    aliases:
+    - Rolleston, T.W.
+    - Rolleston, Thomas William Hazen
+    - Rolleston, Thomas William
+    birthdate: 1857
+    deathdate: 1920
+    gutenberg_agent_id: '5663'
+    url: http://www.gutenberg.org/2009/agents/5663
+    wikipedia: http://en.wikipedia.org/wiki/T._W._Rolleston
+covers:
+- cover_type: archival
+  image_path: 21210-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Davis, Thomas Osborne
+    birthdate: 1814
+    deathdate: 1845
+    gutenberg_agent_id: '9767'
+    url: http://www.gutenberg.org/2009/agents/9767
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Osborne_Davis_%28Irish_politician%29
+description: ''
+gutenberg_issued: '2007-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21210'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JC'
+- !lcsh 'Ireland -- History'
+- !lcc 'PR'
+- !lcsh 'Ireland -- Parliament -- History'
+- !lcc 'DA'
+- !lcsh 'Poetry'
+- !lcsh 'Ireland -- Literary collections'
+- !lcsh 'Ireland -- History -- James II, 1685-1688'
+- !lcsh 'Essays'
+tableOfContents: The Irish Parliament of James II. -- Literary and Historical Essays.
+  -- Political Articles. -- Poetical Works.
+title: Thomas Davis, Selections from his Prose and Poetry
+url: http://www.gutenberg.org/ebooks/21210
