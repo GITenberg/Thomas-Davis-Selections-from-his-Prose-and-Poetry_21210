@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9767
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Osborne_Davis_%28Irish_politician%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21210#Thomas-Davis-Selections-from-his-Prose-and-Poetry
 gutenberg_issued: '2007-04-24'
 gutenberg_type: Text
 identifiers:
